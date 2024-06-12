@@ -149,4 +149,4 @@ Here is the blueprint:
 ![Blueprint](./images/blueprint.png)
 ![Blueprint2](./images/cloudflaretunnel.png)
 
-As we can see with the method chosen we do not need any port open(port forwording). Cloudflare is taking care of talking to our NGINX proxy manager and that is in charge of talking to our other apps (eg. overseer)
+As we can see with the method chosen we do not need any port open(port forwarding). Cloudflare is taking care of talking to our NGINX proxy manager and that is in charge of talking to our other apps (eg. overseer)
